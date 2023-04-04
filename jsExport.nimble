@@ -1,6 +1,6 @@
 # Package
 
-version       = "0.0.1"
+version       = "0.0.2"
 author        = "nepeckman"
 description   = "CommonJS exports for Nim"
 license       = "MIT"
